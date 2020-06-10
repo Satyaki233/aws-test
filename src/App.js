@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          {process.env.REACT_APP_SATYAKI}
         </a>
       </header>
     </div>
